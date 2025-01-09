@@ -8,7 +8,7 @@ import datetime
 import threading
 from bs4 import BeautifulSoup as b
 
-API_KEY = '7154433980:AAGyKu0TQmaFFSC4NSHuSC1tEIm3Sv3TKRo'
+API_KEY = 'Key'
 
 connection = pymysql.connect(host='localhost',
                              user='root',
